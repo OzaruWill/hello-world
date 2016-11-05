@@ -1,2 +1,2 @@
 # hello-world
-Restarting my studies with GIT, I created this Hello-World repo. hey Ho, let's go! o/
+Restarting my studies with GIT, I created this Hello-World repo. Keep on rockin' in the free world! o/
